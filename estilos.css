@@ -1,3 +1,11 @@
-.margenes {
-    margin: 200px
+body {
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+    margin: 10px 30px 50px
+}
+
+.titulo {
+    margin:25px;
+    text-align: center;
 }
