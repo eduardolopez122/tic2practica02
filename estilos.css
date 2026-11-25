@@ -9,3 +9,16 @@ body {
     margin:25px;
     text-align: center;
 }
+
+footer {
+    background-color: rgb(243, 243, 243);
+    border-style: solid none none none;
+    border-width: 2px;
+    border-color: black;
+    padding: 30px;
+    margin: 50px -30px -50px
+}
+
+.centrado {
+    text-align: center;
+}
